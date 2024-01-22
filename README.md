@@ -9,7 +9,7 @@ The `weekly_backup_report.sh` script is a versatile tool designed for performing
 To execute the script, run the following command:
 
 ```bash
-./weekly_backup_report.sh
+./weekly_backup_report.sh youremail@email.com
 ```
 
 ## Setup
