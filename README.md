@@ -80,12 +80,8 @@ Before utilizing the script, configure a cron job to automate its execution week
   ```bash
   sudo apt-get install mutt -y
   ```
-
+- Don't forget to add the mutt configuration in muttrc and source the file
 ## Notes
 
 - The script may require adjustments based on specific system configurations and preferences.
 - Ensure the script is executed with the necessary permissions.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
